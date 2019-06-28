@@ -2,6 +2,8 @@
 
 [DevOps Korea Meetup](http://meetup.devopskorea.com/201906/) 행사에서 진행하는 Hands on Lab입니다.
 
+AZ203 에서도 실습 했습니다.
+
 ## 사전 준비 사항
 
 *Azure* VM, Function Apps, Containers 등 사전 지식을 따로 필요로 하지 않습니다.
