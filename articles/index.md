@@ -2,7 +2,7 @@
 
 [DevOps Korea Meetup](http://meetup.devopskorea.com/201906/) 행사에서 진행하는 Hands on Lab입니다.
 
-AZ203 에서도 실습 했습니다. 22
+AZ203 에서도 실습 했습니다. 2019-09-20 az-203 hello world.
 
 ## 사전 준비 사항
 
